@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+
+.main-content {
+    position: fixed;
+    left: 20px;
+    bottom: 80px;
+}
